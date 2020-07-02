@@ -1,2 +1,2 @@
 # hello-world
-Una prueba para iniciar en la creacion de repositorios 
+Prueba de cambio de informacion de una rama. 
